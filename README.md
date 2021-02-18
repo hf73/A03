@@ -21,7 +21,7 @@ Git/Webstorm
 1)	Download Webstorm from https://www.jetbrains.com/community/education/ 
 2)	Download Git from https://git-scm.com/downloads 
 3)	Make sure you have created a GitHub account from previous steps.
-a.	If not, visit https://github.com/join and create an account.
+  a.	If not, visit https://github.com/join and create an account.
 4)	Once both are installed , in Webstorm press (Ctrl + Alt + S) to open “system preferences.”
 5)	Select “Version control”  “Git” and enter the path to the git.exe
 6)	Inside Webstorm system preference select “Appearance and Behavior”  “System Settings”  “Passwords” and add GitHub password to Webstorm.
@@ -33,18 +33,30 @@ a.	If not, visit https://github.com/join and create an account.
 
 
 Part 2)
+
 Glossary
 •	Branch – A temporary area for development
+
 •	Clone – Targets existing repo and crease a copy of it.
+
 •	Commit – Save changes of change to a file or files.
+
 •	Fetch – adding changes from the remote repo to your local branch without committing. 
+
 •	GIT- program for tracking changes in text files.
+
 •	Github- A hub to track all commands done from git as well as repos, branches, and everything else.
+
 •	Merge – Takes changes from one branch and applies it to another.
+
 •	Merge Conflict- Issues that occur when multiple people make different edits to same line of the same file not allowing the merge.
+
 •	Push – Sends committed changes to remote repo from local.
+
 •	Pull – fetches and merges changes to your local repo.
+
 •	Remote – refers to remote repos that are hosted on servers such as GitHub.
+
 •	Repository – A project folder to contain all of the project files and stores revision history.
 
 
