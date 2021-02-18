@@ -11,7 +11,7 @@ Step by step directions:
 5)	You will then get an email in order to verify your account, follow the directions in your email.
 
 
-1.Create New Repo
+2.Create New Repo
 
 1)	Inside www.GitHub.com, on the left side you should see a green button called “New”
     a.	If lost, press the icon on top left, next to search bar, to bring you to home screen.
